@@ -122,7 +122,7 @@ Health workers are more likely to get the flu vaccine than the rest of the popul
 
 ### iv) Health Insurance
 
-![Image](Visualizations/Health insurance.png)
+![Health insurance](https://github.com/Kiprotichemmanuel/Seasonal-flu-vaccine/assets/126081203/2a9cc81f-83fa-41d1-ae3f-e296dc64961a)
 
 From the graph, People with insurance had a higher mean vaccination rate of 54% as compared to 23% for people with no insurance.
 
@@ -130,7 +130,8 @@ People with health insurance are more likely to have gotten the vaccine whereas 
 
 ### v) Perceived Risk of Getting Sick from Flu Vaccine
 
-![Image](Visualizations/Perceived risk.png)
+![Perceived risk](https://github.com/Kiprotichemmanuel/Seasonal-flu-vaccine/assets/126081203/85d74494-90cf-46af-a4a1-b320374adcb1)
+
 
 Here a higher rating means the individual is more concerned about getting sick from the flu vaccine itself. 
 
@@ -148,19 +149,21 @@ From the graph, individuals living with a household income below the 2008 Census
 
 ### vii) Race
 
-![Image](Visualizations/Race.png)
+![Income level](https://github.com/Kiprotichemmanuel/Seasonal-flu-vaccine/assets/126081203/e20cb04e-06ad-4bca-ac7d-8591b70853a2)
 
 From the graph, the mean vaccination rates is fairly distributed amongst the different races, with White people being the highest likely to get vaccinated (a mean vaccination rate of 49%), while Hispanic people having the lowest vaccination rate at 34%.
 
 ### viii) Chronic Medical Condition
 
-![Image](Visualizations/Chronic med condition.png)
+![Chronic med condition](https://github.com/Kiprotichemmanuel/Seasonal-flu-vaccine/assets/126081203/8b3a7ef2-8ec0-4d55-a57b-81f515f70fa9)
+
 
 From the graph, people with a chronic medical condition such as asthma or any other lung condition, diabetes, a heart condition or a weakened immune system, are highly likely to get vaccinated, with a mean vaccination rate of 60%, as compared to people with no chronic medical condition who have a vaccine uptake rate of 42%.
 
 ### ix) Behavior (touching face)
 
-![Image](Visualizations/Behavior(touching face).png)
+![Behavior Score](https://github.com/Kiprotichemmanuel/Seasonal-flu-vaccine/assets/126081203/194fa199-d59e-4b0d-b5de-83e99f502a61)
+
 
 From the graph, people who have avoided touching their face(eyes, nose, or mouth) have a higher mean vaccination rate of 51%.
 
@@ -168,7 +171,8 @@ This could be due to the fact that they want to combine all the efforts at their
 
 ### x) Education
 
-![Image](Visualizations/Education.png)
+![Education](https://github.com/Kiprotichemmanuel/Seasonal-flu-vaccine/assets/126081203/be714e0d-0867-43e4-b0a8-f1df294e1556)
+
 
 The proportion of people vaccinated within each level of education category increases with increasing level of education. 
 
