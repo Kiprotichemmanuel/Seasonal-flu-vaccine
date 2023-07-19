@@ -144,7 +144,7 @@ From the graph, people with a perceived risk rating of 1 (Not at all worried) ha
 
 ### vi) Income Level
 
-![Image](Visualizations/Income level.png)
+![Income level](https://github.com/Kiprotichemmanuel/Seasonal-flu-vaccine/assets/126081203/e20cb04e-06ad-4bca-ac7d-8591b70853a2)
 
 This is in reference to the household annual income of respondents with respect to 2008 Census poverty thresholds.
 
@@ -152,7 +152,8 @@ From the graph, individuals living with a household income below the 2008 Census
 
 ### vii) Race
 
-![Income level](https://github.com/Kiprotichemmanuel/Seasonal-flu-vaccine/assets/126081203/e20cb04e-06ad-4bca-ac7d-8591b70853a2)
+![Race](https://github.com/Kiprotichemmanuel/Seasonal-flu-vaccine/assets/126081203/e754584c-3b6e-454a-b3fe-64bc93434a01)
+
 
 From the graph, the mean vaccination rates is fairly distributed amongst the different races, with White people being the highest likely to get vaccinated (a mean vaccination rate of 49%), while Hispanic people having the lowest vaccination rate at 34%.
 
