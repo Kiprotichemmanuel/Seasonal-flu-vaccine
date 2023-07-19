@@ -262,6 +262,9 @@ Best ROC-AUC Score: 0.849
 Best Estimator: LogisticRegression(C=0.1, random_state=110, solver='liblinear')
 Train ROC AUC Score: 0.776
 Test ROC AUC Score: 0.779
+
+![image](https://github.com/Kiprotichemmanuel/Seasonal-flu-vaccine/assets/126081203/dd72bae6-85e1-4a41-b645-85b17ec48b69)
+
  
 - For the baseline Logistic Regression model, performing a GridSearch for the best hyperparameter combination resulted in a very small improvement of the metrics.
 
@@ -327,6 +330,9 @@ After hyperparameter tuning, there was some serious overfitting. For instance, t
 
 This simply means that the model is not able to generalize well to new data.
 
+![image](https://github.com/Kiprotichemmanuel/Seasonal-flu-vaccine/assets/126081203/44e779e7-6396-473e-b83d-cd5a44504af0)
+
+
 Our metric for optimization --> **Best ROC-AUC Score: 0.8085**
 
 - Surprisingly, the KNN model has a worse ROC-AUC score compared to our Decision Tree, despite being a more complex model. This could be due to factors such as:
@@ -357,6 +363,8 @@ Best Estimator: RandomForestClassifier(max_depth=10, min_samples_leaf=2, min_sam
                        n_estimators=500, n_jobs=3, random_state=30)
 Train ROC AUC Score: 0.800
 Test ROC AUC Score: 0.776
+![image](https://github.com/Kiprotichemmanuel/Seasonal-flu-vaccine/assets/126081203/e728594c-f8c5-4a25-8dfb-d0584ed488e3)
+
 
 After hyperparameter tuning, the test metrics improved by a bit. For instance, the test ROC-AUC score previously was 77%, and it improved up to 78%.
 
@@ -413,6 +421,9 @@ From the GridSearch cross-validation of 3 folds;
 3. KNN - 0.8085
 4. Random Forest - 0.8507 
 5. XGBoost - 0.8548
+
+   ![image](https://github.com/Kiprotichemmanuel/Seasonal-flu-vaccine/assets/126081203/ba56873f-c979-47c9-a7ca-ed833fc26a47)
+
 
 - XGBoost is therefore our **best and final model** with the best ROC-AUC score of **0.8548**, as compared to all other models.
 
