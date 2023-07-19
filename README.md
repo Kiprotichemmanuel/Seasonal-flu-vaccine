@@ -1,5 +1,8 @@
 # Predicting Seasonal Flu Vaccination Status
 
+![iStock-1288494001-1688x1125](https://github.com/Kiprotichemmanuel/Seasonal-flu-vaccine/assets/126081203/a69bd935-80a8-4e1b-a768-513cca75d2c5)
+
+
 # Overview
 
 The goal of this project is to predict how likely individuals are to receive their flu vaccines. Specifically, we’ll be predicting for the `seasonal_vaccine` target variable. An understanding of how people’s backgrounds, opinions, and health behaviors can provide guidance for future public health efforts and how they are related to their personal vaccination patterns.
