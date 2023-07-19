@@ -1,8 +1,3 @@
-# Seasonal-flu-vaccine
-![iStock-1288494001-1688x1125](https://github.com/Kiprotichemmanuel/Seasonal-flu-vaccine/assets/126081203/3cc23236-28df-46ba-a3cf-6488de34e0de)
-
-
-
 # Predicting Seasonal Flu Vaccination Status
 
 # Overview
